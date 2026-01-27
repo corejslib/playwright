@@ -1,6 +1,6 @@
 {
     "name": "@c0rejs/playwright",
-    "version": "2.10.19",
+    "version": "2.10.20",
     "description": "Playwright wrapper",
     "homepage": "https://c0rejs.github.io/playwright/",
     "bugs": {

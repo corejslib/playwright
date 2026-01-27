@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.20 (2026-01-27)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [f426ca9](https://github.com/c0rejs/playwright/commit/f426ca9); 👬 zdm)
+
+Compare with the previous release: [v2.10.19](https://github.com/c0rejs/playwright/compare/v2.10.19...v2.10.20)
+
 ### v2.10.19 (2026-01-05)
 
 **Other changes:**
