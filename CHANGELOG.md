@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.10.22 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.10.21](https://github.com/c0rejs/playwright/compare/v2.10.21...v2.10.22)
+
 ### v2.10.21 (2026-01-28)
 
 **Other changes:**
