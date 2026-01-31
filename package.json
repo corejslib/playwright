@@ -1,21 +1,21 @@
 {
-    "name": "@c0rejs/playwright",
+    "name": "@corejslib/playwright",
     "version": "2.10.22",
     "description": "Playwright wrapper",
-    "homepage": "https://c0rejs.github.io/playwright/",
+    "homepage": "https://corejslib.github.io/playwright/",
     "bugs": {
-        "url": "https://github.com/c0rejs/playwright/issues",
+        "url": "https://github.com/corejslib/playwright/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/playwright.git"
+        "url": "git+https://github.com/corejslib/playwright.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#lib/*": "./lib/*.js",
         "#resources/*": "./resources/*"
     },
@@ -34,6 +34,6 @@
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
-        "@c0rejs/core": "^7.0.0"
+        "@corejslib/core": "^7.0.0"
     }
 }
