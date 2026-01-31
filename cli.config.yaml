@@ -5,5 +5,5 @@ docs:
   location: /docs
 
   externalTypes:
-    - c0rejs/core
+    - corejslib/core
     - corejslib/result
