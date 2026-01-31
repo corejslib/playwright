@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.24 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [8b03fd7](https://github.com/corejslib/playwright/commit/8b03fd7); 👬 zdm)
+
+Compare with the previous release: [v2.10.23](https://github.com/corejslib/playwright/compare/v2.10.23...v2.10.24)
+
 ### v2.10.23 (2026-01-31)
 
 **Other changes:**
