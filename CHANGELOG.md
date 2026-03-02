@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.26 (2026-03-02)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename objectIsPlain to isPlainObject (● [f038c71](https://github.com/corejslib/playwright/commit/f038c71); 👬 zdm)
+
+Compare with the previous release: [v2.10.25](https://github.com/corejslib/playwright/compare/v2.10.25...v2.10.26)
+
 ### v2.10.25 (2026-02-05)
 
 **Other changes:**
