@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.27 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [acb9cfa](https://github.com/corejslib/playwright/commit/acb9cfa); 👬 zdm)
+
+Compare with the previous release: [v2.10.26](https://github.com/corejslib/playwright/compare/v2.10.26...v2.10.27)
+
 ### v2.10.26 (2026-03-02)
 
 **Code refactoring:**
