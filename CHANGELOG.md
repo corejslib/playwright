@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.28 (2026-03-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [4d290a5](https://github.com/corejslib/playwright/commit/4d290a5); 👬 zdm)
+
+Compare with the previous release: [v2.10.27](https://github.com/corejslib/playwright/compare/v2.10.27...v2.10.28)
+
 ### v2.10.27 (2026-03-06)
 
 **Other changes:**
