@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.29 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [feff20f](https://github.com/corejslib/playwright/commit/feff20f); 👬 zdm)
+
+Compare with the previous release: [v2.10.28...v2.10.29](https://github.com/corejslib/playwright/compare/v2.10.28...v2.10.29)
+
 ### v2.10.28 (2026-03-18)
 
 **Other changes:**
