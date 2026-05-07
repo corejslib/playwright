@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.30 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [530ba30](https://github.com/corejslib/playwright/commit/530ba30); 👬 zdm)
+
+Compare with the previous release: [v2.10.29...v2.10.30](https://github.com/corejslib/playwright/compare/v2.10.29...v2.10.30)
+
 ### v2.10.29 (2026-04-20)
 
 **Code refactoring:**
