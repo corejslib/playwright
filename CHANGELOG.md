@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.31 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename result.catch() to result.fromError() (● [07cd2de](https://github.com/corejslib/playwright/commit/07cd2de); 👬 zdm)
+
+**Other changes:**
+
+- style: lint (● [3acb6a9](https://github.com/corejslib/playwright/commit/3acb6a9); 👬 zdm)
+
+Compare with the previous release: [v2.10.30...v2.10.31](https://github.com/corejslib/playwright/compare/v2.10.30...v2.10.31)
+
 ### v2.10.30 (2026-05-07)
 
 **Code refactoring:**
