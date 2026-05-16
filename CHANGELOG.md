@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.32 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [c17c09f](https://github.com/corejslib/playwright/commit/c17c09f); 👬 zdm)
+
+Compare with the previous release: [v2.10.31...v2.10.32](https://github.com/corejslib/playwright/compare/v2.10.31...v2.10.32)
+
 ### v2.10.31 (2026-05-11)
 
 **Code refactoring:**
