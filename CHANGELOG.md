@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.33 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [fcdd4ff](https://github.com/corejslib/playwright/commit/fcdd4ff); 👬 zdm)
+
+Compare with the previous release: [v2.10.32...v2.10.33](https://github.com/corejslib/playwright/compare/v2.10.32...v2.10.33)
+
 ### v2.10.32 (2026-05-16)
 
 **Other changes:**
