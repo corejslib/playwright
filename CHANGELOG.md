@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.34 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [869246a](https://github.com/corejslib/playwright/commit/869246a); 👬 zdm)
+
+Compare with the previous release: [v2.10.33...v2.10.34](https://github.com/corejslib/playwright/compare/v2.10.33...v2.10.34)
+
 ### v2.10.33 (2026-05-16)
 
 **Other changes:**
