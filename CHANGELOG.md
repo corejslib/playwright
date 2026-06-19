@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.35 (2026-06-19)
+
+**Other changes:**
+
+- style: lint (● [b236939](https://github.com/corejslib/playwright/commit/b236939); 👬 zdm)
+
+Compare with the previous release: [v2.10.34...v2.10.35](https://github.com/corejslib/playwright/compare/v2.10.34...v2.10.35)
+
 ### v2.10.34 (2026-05-28)
 
 **Other changes:**
