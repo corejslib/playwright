@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.37 (2026-07-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [c6a2afa](https://github.com/corejslib/playwright/commit/c6a2afa); 👬 zdm)
+
+Compare with the previous release: [v2.10.36...v2.10.37](https://github.com/corejslib/playwright/compare/v2.10.36...v2.10.37)
+
 ### v2.10.36 (2026-06-21)
 
 **Other changes:**
