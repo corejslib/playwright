@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.38 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [2515f7f](https://github.com/corejslib/playwright/commit/2515f7f); 👬 zdm)
+
+Compare with the previous release: [v2.10.37...v2.10.38](https://github.com/corejslib/playwright/compare/v2.10.37...v2.10.38)
+
 ### v2.10.37 (2026-07-02)
 
 **Bug fixes:**
