@@ -850,7 +850,7 @@ Fixes:
 
 Fixes:
 
-- fix: docker autobuild\_tags renamed to auto\_tags
+- fix: docker autobuild_tags renamed to auto_tags
 
 ### 2.3.17 (2021-09-07)
 
